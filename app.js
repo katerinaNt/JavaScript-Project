@@ -19,7 +19,7 @@ document.querySelector('.btn-roll').addEventListener('click' , function(){
 
 		
 
-	if (dice !== 1 && dice2 !== 1) {
+	if (dice1 !== 1 && dice2 !== 1) {
 		roundScores += dice1 + dice2 ;
 		document.querySelector('#current-' + activePlayer).textContent = roundScores;
 	}
