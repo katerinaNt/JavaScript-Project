@@ -12,7 +12,9 @@ GAME RULES:
 
 - The first player to reach 100 points on GLOBAL score wins the game
 
-EXTRA RULE
+EXTRA RULES
 -  Add an input field to the HTML where players can set the winning score, so that they can change the predefined score of 100. 
+-  Add another dice to the game. The player looses his current score when one of them is a 1.
+
 
 
